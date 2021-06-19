@@ -16,5 +16,5 @@ https://www.udemy.com/course/the-complete-hands-on-swiftui-apps-using-firebase/
 <br><br>
 
 - 連携したアカウント
-<img src="" width="600">
+<img src="https://user-images.githubusercontent.com/47273077/122634259-1c59ce80-d118-11eb-8d0a-a9b6ae615548.png" width="600">
 <br><br>
